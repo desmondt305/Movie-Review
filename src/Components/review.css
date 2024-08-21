@@ -1,0 +1,15 @@
+.review-list {
+  margin-top: 20px;
+}
+
+.review {
+  background-color: #fff;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.reviews-container {
+  margin-top: 20px;
+}
