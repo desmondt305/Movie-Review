@@ -1,73 +1,88 @@
-# Getting Started with Create React App
+# **Movie-Review**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Movie-Review is a web application that allows users to add reviews to selected movies and rate them using a star rating system. It’s designed for movie enthusiasts who want to share their opinions and ratings on various films.
 
-## Available Scripts
+## **Table of Contents**
 
-In the project directory, you can run:
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-### `npm start`
+## **About the Project**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Movie-Review enables users to select a movie from a list, provide a written review, and assign a star rating. The application is user-friendly, with a clean and responsive design, making it easy to browse and review movies.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **Built With**
 
-### `npm test`
+This project is built using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **HTML**: For structuring the web pages.
+- **CSS**: For styling the application.
+- **JavaScript**: For adding interactivity.
+- **Bootstrap**: For responsive design and layout.
+- **React**: For building the user interface.
 
-### `npm run build`
+## **Getting Started**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Prerequisites**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Before you begin, ensure you have the following installed on your system:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Node.js**: [Download and install Node.js](https://nodejs.org/) (which includes npm).
 
-### `npm run eject`
+### **Installation**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To set up the project locally, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/desmondt305/Movie-Review.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Navigate to the project directory:**
+   ```sh
+   cd Movie-Review
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Install the necessary dependencies:**
+   ```sh
+   npm install
+   ```
 
-## Learn More
+4. **Start the development server:**
+   ```sh
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Your app should now be running on [http://localhost:3000](http://localhost:3000).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## **Usage**
 
-### Code Splitting
+Once the app is running, you can:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Select a movie:** Browse the list of movies and choose one to review.
+- **Add a review:** Write a review for the selected movie.
+- **Rate the movie:** Use the star rating system to rate the movie.
 
-### Analyzing the Bundle Size
+## **Contributing**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are welcome! If you have suggestions for new features or improvements, feel free to submit an issue or a pull request.
 
-### Making a Progressive Web App
+1. **Fork the repository**
+2. **Create your feature branch** (`git checkout -b feature/AmazingFeature`)
+3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
+4. **Push to the branch** (`git push origin feature/AmazingFeature`)
+5. **Open a pull request**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## **Contact**
 
-### Advanced Configuration
+Desmond Turner - [LinkedIn](https://www.linkedin.com/in/desmond-turner) - Desmondt918@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Project URL: [https://github.com/desmondt305/Movie-Review.git](https://github.com/desmondt305/Movie-Review.git)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# week14
-# Week-14-Assignment
-# Movie-Reviews
