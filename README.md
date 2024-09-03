@@ -81,7 +81,7 @@ Contributions are welcome! If you have suggestions for new features or improveme
 
 ## **Contact**
 
-Desmond Turner - [LinkedIn](https://www.linkedin.com/in/desmond-turner) - Desmondt918@gmail.com
+Desmond Turner - [(https://www.linkedin.com/in/desmond-turner)] - Desmondt918@gmail.com
 
 Project URL: [https://github.com/desmondt305/Movie-Review.git](https://github.com/desmondt305/Movie-Review.git)
 
